@@ -211,7 +211,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 val=val/100.0;
                 res.setText(val.toString());
-
                 val=0.0;
             }
         });
