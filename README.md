@@ -41,5 +41,4 @@ If you have any questions or suggestions, please feel free to contact the author
 * Author: Allen Conroy D'souza
 * GitHub: quicksilver812
 
-  
-Thank you for using and contributing to the Simple Calculator App! We hope you find it useful.
+Thank you for using and contributing to the Simple Calculator App! I hope you find it useful.
