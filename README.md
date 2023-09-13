@@ -7,6 +7,7 @@ This is a simple calculator app developed using Android Studio. This app allows 
 * Subtraction
 * Multiplication
 * Division
+* Percentage
 
 ## Getting Started
 To get started with this calculator app, you'll need to have Android Studio installed on your computer. If you don't have it already, you can download it from the official [Android Studio Website](https://developer.android.com/studio "Android Studio website").
