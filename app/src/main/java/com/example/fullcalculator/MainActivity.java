@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
@@ -75,11 +76,12 @@ public class MainActivity extends AppCompatActivity {
                 if(d==1){
                     val=val+ (0.0/ Math.pow(10, g));
                     g++;
+                    res.setText(res.getText().toString()+"0");
                 }
                 else {
                     val = val * 10;
+                    res.setText(val.toString());
                 }
-                res.setText(val.toString()+"0");
             }
         });
 
