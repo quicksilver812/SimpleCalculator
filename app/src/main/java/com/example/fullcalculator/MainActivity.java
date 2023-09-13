@@ -209,13 +209,9 @@ public class MainActivity extends AppCompatActivity {
         mod.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                res.setText(val+" %");
-                y=5;
-                if(k==1){
-                    val=x%100;
-                }
-                x=val;
-                k=1;
+                val=val/100.0;
+                res.setText(val.toString());
+
                 val=0.0;
             }
         });
@@ -239,8 +235,6 @@ public class MainActivity extends AppCompatActivity {
                     val=x*val;
                 else if(y==4)
                     val=x/val;
-                else if(y==5)
-                    val=x%100;
 
                 res.setText(val.toString());
                 k=0;
