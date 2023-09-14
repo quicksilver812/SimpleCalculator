@@ -22,7 +22,7 @@ To get started with this calculator app, you'll need to have Android Studio inst
 
 ## Usage
 1. Launch the app on your Android device.
-2. You will see the calculator interface with buttons for numbers (0-9) and operations (+, -, ×, ÷).
+2. You will see the calculator interface with buttons for numbers (0-9) and operations (+, -, ×, ÷, %).
 3. Tap the number buttons to enter numbers.
 4. Tap the operation buttons to perform operations.
 5. To clear the input, tap the "AC" button.
