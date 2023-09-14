@@ -27,7 +27,7 @@ To get started with this calculator app, you'll need to have Android Studio inst
 4. Tap the operation buttons to perform operations.
 5. To clear the input, tap the "AC" button.
 6. To calculate the result, tap the "=" button.
-7. The result will be displayed at the bottom of the screen.
+7. The result will be displayed above the operation buttons.
 
 ## Contributing
 If you'd like to contribute to the development of this app, feel free to fork this repository and submit pull requests. We welcome any contributions, including bug fixes, new features, and improvements.
